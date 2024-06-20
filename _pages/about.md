@@ -12,6 +12,5 @@ I'm now a postdoc at the Technical University of Berlin, supervised by Prof. Giu
 
 My research interests include massive MIMO, RIS/IRS, and Near-field Communications.
 
-
-[Email](k.zhi@tu-berlin.de)
+Contact me via: k.zhi@tu-berlin.de
 
