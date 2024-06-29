@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-{\bf \itshape Journal Papers:\upshape}
+**Journal Papers:**
 
 
 [J15] N. Yan, K. Wang, {\bf  \underline{K. Zhi}},  et al,  ``Device Scheduling for Secure Aggregation in Wireless Federated Learning", early access in \emph{IEEE Internet of Things Journal}.
