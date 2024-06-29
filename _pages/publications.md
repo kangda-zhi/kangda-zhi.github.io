@@ -57,7 +57,7 @@ author_profile: true
 
 
 
-{\bf \itshape Conference Papers:\upshape}
+__Conference Papers:__
 
 [C7]	**K. Zhi**, C. Pan, T. Wu, H. Ren, K. K. Chai, ``Analysis of XL-Array with Near-Field EM Channels,"  _European Signal Processing Conference, (EUSIPCO), 2023_ (__Invited paper__) 
 
