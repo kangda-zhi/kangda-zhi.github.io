@@ -37,7 +37,7 @@ author_profile: true
 
 [J11] M. Liu, Y. Zhang, Y. Jin, **K. Zhi**, C. Pan, ``Towards Near Towards Near-Field Communications for Field Communications for 6G: Challenges and Opportunities",  _ZTE Communications_, 2024, 22(1).
 
-[J10]  **K. Zhi**, C. Pan, H. Ren, K. K. Chai, C. X. Wang, R. Schober,  X. You,  ``Performance Analysis and Low-Complexity Design for XL-MIMO with Near-Field Spatial Non-Stationarities'',  __IEEE Journal on Selected Areas in Communications__, vol. 42, no. 6, pp. 1656-1672, Apr. 2024
+[J10]  **K. Zhi**, C. Pan, H. Ren, K. K. Chai, C. X. Wang, R. Schober,  X. You,  ``Performance Analysis and Low-Complexity Design for XL-MIMO with Near-Field Spatial Non-Stationarities'',  __IEEE Journal on Selected Areas in Communications__, vol. 42, no. 6, pp. 1656-1672, Apr. 2024 (__popular paper__) 
 
 [J9]	**K. Zhi**, C. Pan, H. Ren, K. Wang, M. Elkashlan, M. D. Renzo, R. Schober, H. V. Poor, J. Wang, L. Hanzo, ``Two-timescale design for reconfigurable intelligent surface-aided massive MIMO systems with imperfect CSI."  __IEEE  Transactions on Information Theory__, vol. 69, no. 5, pp. 3001-3033, May 2023 (__popular paper__) 
 
@@ -49,7 +49,7 @@ author_profile: true
 
 [J6]	**K. Zhi**, C. Pan, H. Ren, K. Wang, ``Power Scaling Law Analysis and Phase Shift Optimization of RIS-Aided Massive MIMO Systems With Statistical CSI,"  __IEEE Transactions on Communications__, vol. 70, no. 5, pp. 3558-3574, May 2022  
 
-[J5]	**K. Zhi**, C. Pan, H. Ren, K. K. Chai, M. Elkashlan, ``Active RIS Versus Passive RIS: Which is Superior With the Same Power Budget?,"  _IEEE Communications Letters_, vol. 26, no. 5, pp. 1150-1154, May 2022 (__ESI Highly Cited Paper__) 
+[J5]	**K. Zhi**, C. Pan, H. Ren, K. K. Chai, M. Elkashlan, ``Active RIS Versus Passive RIS: Which is Superior With the Same Power Budget?,"  _IEEE Communications Letters_, vol. 26, no. 5, pp. 1150-1154, May 2022 (__ESI Highly Cited Paper, Hot Paper__) 
 
 [J4]	**K. Zhi**,  C. Pan, H. Ren, K. Wang, ``Ergodic Rate Analysis of Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With ZF Detectors,"  _IEEE Communications Letters_, vol. 26, no. 2, pp. 264-268, Feb. 2022
 
