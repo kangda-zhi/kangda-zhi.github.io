@@ -49,7 +49,7 @@ author_profile: true
 
 [J6]	**K. Zhi**, C. Pan, H. Ren, K. Wang, ``Power Scaling Law Analysis and Phase Shift Optimization of RIS-Aided Massive MIMO Systems With Statistical CSI,"  __IEEE Transactions on Communications__, vol. 70, no. 5, pp. 3558-3574, May 2022  
 
-[J5]	**K. Zhi**, C. Pan, H. Ren, K. K. Chai, M. Elkashlan, ``Active RIS Versus Passive RIS: Which is Superior With the Same Power Budget?,"  _IEEE Communications Letters_, vol. 26, no. 5, pp. 1150-1154, May 2022 <span style="color: red;">(__ESI Highly Cited Paper, Hot Paper__)</span>
+[J5]	**K. Zhi**, C. Pan, H. Ren, K. K. Chai, M. Elkashlan, ``Active RIS Versus Passive RIS: Which is Superior With the Same Power Budget?,"  _IEEE Communications Letters_, vol. 26, no. 5, pp. 1150-1154, May 2022 (__ESI Highly Cited Paper, Hot Paper__)
 
 
 [J4]	**K. Zhi**,  C. Pan, H. Ren, K. Wang, ``Ergodic Rate Analysis of Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With ZF Detectors,"  _IEEE Communications Letters_, vol. 26, no. 2, pp. 264-268, Feb. 2022
