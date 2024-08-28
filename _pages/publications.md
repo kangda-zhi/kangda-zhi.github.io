@@ -19,6 +19,13 @@ author_profile: true
 
 **Journal Papers:**
 
+[J18] M. Liu, C. Pan, **K. Zhi**, H. Ren, and J. Wang, ``Hybrid Precoding Design for Near-Field Wideband THz Systems with Spatial Non-Stationarity," _IEEE Communications Letters_, \\doi: 10.1109/LCOMM.2024.3449568.
+
+
+[J17] M. Liu, H. Ren, C. Pan, B. Wang, Z. Yu, R. Weng, **K. Zhi**, and Y. He, ``Joint Beamforming Design for Double Active RIS-Assisted Radar-Communication Coexistence Systems," _IEEE Transactions on Cognitive Communications and Networking_, doi: 10.1109/TCCN.2024.3438350.
+
+
+[J16] T. Wu, C. Pan, **K. Zhi**, H. Ren, M. Elkashlan, J. Wang, and C. Yuen, ``Employing High-Dimensional RIS Information for RIS-aided Localization Systems," _IEEE Communications Letters_, doi: 10.1109/LCOMM.2024.3433517.
 
 [J15] N. Yan, K. Wang, **K. Zhi**,  et al,  ``Device Scheduling for Secure Aggregation in Wireless Federated Learning", early access in _IEEE Internet of Things Journal_.
 
@@ -59,7 +66,13 @@ author_profile: true
 
 __Conference Papers:__
 
-[C7]	**K. Zhi**, C. Pan, T. Wu, H. Ren, K. K. Chai, ``Analysis of XL-Array with Near-Field EM Channels,"  _European Signal Processing Conference, (EUSIPCO), 2023_ (__Invited paper__) 
+[C10] X. Lai, **K. Zhi**, W. Li, T. Wu, C. Pan, and M. Elkashlan, ``FAS-assisted Wireless Powered Communication Systems," _IEEE International Conference on Communications Workshops (ICC Workshops)_, Denver, CO, USA, 2024, pp. 1731-1736
+
+[C9] M. Liu, H. Ren, C. Pan, B. Wang, Z. Yu, R. Weng, and **K. Zhi**, ``Joint Beamforming Design for Double Active RIS-assisted Radar-Communication Coexistence," _IEEE International Workshop on Radio Frequency and Antenna Technologies (iWRF\&AT)_, Shenzhen, China, 2024, pp. 295-300
+
+[C8] J. Dai, S. Zhang, **K. Zhi**, C. Pan, H. Ren, Z. Zhang, and J. Wang, ``Two-Timescale Design for Simultaneous Transmitting and Reflecting RIS-Assisted Massive MIMO Systems," _IEEE Wireless Communications and Networking Conference (WCNC)_, Dubai, United Arab Emirates, 2024, pp. 01-06
+
+[C7]	**K. Zhi**, C. Pan, T. Wu, H. Ren, K. K. Chai, ``Analysis of XL-Array with Near-Field EM Channels,"  _European Signal Processing Conference, (EUSIPCO)_, Helsinki, Finland, 2023, pp. 910-914 (__Invited paper__) 
 
 [C6] **K. Zhi**, C. Pan, H. Ren, K. K. Chai, C. X. Wang, R. Schober,  X. You,  ``XL-MIMO with Near-Field Spatial Non-Stationarities: Low-complexity Detector Design,'' _IEEE Global Communications Conference (GLOBECOM), 2023_ 
 
