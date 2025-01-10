@@ -19,3 +19,9 @@ Contact me via: k.zhi@tu-berlin.de
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=TkTzqx0AAAAJ&hl=en&oi=ao)
 
+
+__Call for Paper__: EURASIP Journal on Wireless Communications and Networking (IF: 2.3), Special Issue on "Energy Resilient and Sustainable Communication for Green 6G" (Submission Deadline: Aug. 15, 2025).
+
+__Call for Paper__: MDPI SENSORS (IF: 3.4), Special Issue on "Advanced MIMO Technology-Enabled Integrated Sensing and Communication
+" (Submission Deadline: June 30, 2025).
+
